@@ -2,7 +2,8 @@
 In this epic saga, we plunge into the Titanic dataset to decode the secrets of survival. With a captain’s resolve, we explore passenger records, cleanse turbulent data, and deploy a trio of machine learning titans—Logistic Regression, Random Forest, and Decision Tree—to forecast who might have survived the tragedy.
 
 🎯 Objectives
-Exploration: Unveil patterns in survival rates across age, gender, class, and embarkation points through vibrant visualizations.
+Exploration:
+Unveil patterns in survival rates across age, gender, class, and embarkation points through vibrant visualizations.
 Data Cleaning: Tackle missing values and encode categorical variables for machine learning readiness.
 Modeling: Train and compare three classifiers to predict survival with high accuracy.
 Insights: Crown the best model and deliver predictions that illuminate historical truths.
